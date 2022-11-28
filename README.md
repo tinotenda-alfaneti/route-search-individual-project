@@ -14,18 +14,24 @@ Winnipeg, Canada
 
 ### Step 2
 The commands I will give below are for running the code using the terminal.
-Make sure you are in the directory where the source code files are.
-### Windows 
+
+Open the terminal and paste the [link found here](https://github.com/tinotenda-alfaneti/route-search-individual-project.git) 
+
+The navigate to the folder route-search-individual-project using `cd route-search-individual-project`
+
+NB:Make sure you are in the directory where the source code files are.
+
+#### Windows 
 (If you are using the g++ compiler)
 run `g++ *.cpp -o output`
 then execute the code with `.\output.exe`
 
-### Linux
+#### Linux
 (If you are using the g++ compiler)
 run `g++ *.cpp -o output`
 then execute the code with `./output`
 
-### MacOS
+#### MacOS
 
 run `gcc *.cpp -o main.out`
 then execute with `./main.out`
