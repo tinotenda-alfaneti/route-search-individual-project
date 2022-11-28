@@ -4,7 +4,8 @@
 
 ### Step 1
 Upload the a file named inputs.csv to the same directory with the source code files
-NB: There is one that is currently in the directory so you can just edit that.
+NB: There is one that is currently in the directory so you can just edit that. If you
+chose to test with your own then make sure it is a .csv file
 Editing guidelines: It should have two lines: the start city and country should be on the first line,
 and the destination city and country on the second line. There should be a comma between
 the city name and the country name. For example:
