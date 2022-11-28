@@ -2,7 +2,7 @@
 
 # HOW TO RUN THE PROJECT
 
-### Step 1
+### STEP 1
 Upload the a file named inputs.csv to the same directory with the source code files
 NB: There is one that is currently in the directory so you can just edit that. If you
 chose to test with your own then make sure it is a .csv file
@@ -13,7 +13,7 @@ the city name and the country name. For example:
 Accra, Ghana
 Winnipeg, Canada
 
-### Step 2
+### STEP 2
 The commands I will give below are for running the code using the terminal.
 
 Open the terminal and paste the [link found here](https://github.com/tinotenda-alfaneti/route-search-individual-project.git) 
