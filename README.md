@@ -40,5 +40,6 @@ then execute with `./main.out`
 ### STEP 3
 Read the outputFile.txt to see the results and safe journey to wherever you want to go.
 
+:warning: NB: Please make sure the version of C++ you are using is version 11+
 
 
