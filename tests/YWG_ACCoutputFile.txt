@@ -1,0 +1,8 @@
+2I from ACC to LIM
+AC from LIM to YYZ
+AC from YYZ to YWG
+
+Total flights: 3
+Total additional stops: 0
+Distance: 16430.7KM
+Optimality Criteria: Flights

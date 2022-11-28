@@ -1,0 +1,7 @@
+ET from ACC to ADD
+ET from ADD to HRE
+
+Total flights: 2
+Total additional stops: 0
+Distance: 7421.66KM
+Optimality Criteria: Flights
